@@ -5,6 +5,12 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 ![Junjie's github stats](https://github-readme-stats.vercel.app/api?username=JunjieLeiCoe&show_icons=true&hide=["stars","issues"]&theme=dark) 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=JunjieLeiCoe&repo=Econ611&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=JunjieLeiCoe&repo=Rap-Novelty&theme=dark" />
+</a>
 
 <div align='center'> I am currently learning </div>
 
