@@ -6,7 +6,7 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 ![Junjie's github stats](https://github-readme-stats.vercel.app/api?username=JunjieLeiCoe&show_icons=true&hide=["stars","issues"]&theme=dark) 
 
-
+<div align='center'> name <div>
 
 
 <img src="https://media3.giphy.com/media/XAxylRMCdpbEWUAvr8/200w.webp" alt="" width="100"><img src="https://media3.giphy.com/media/fsEaZldNC8A1PJ3mwp/200w.webp" width="100"><img src="https://media2.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"> <img src="https://media1.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"> <img src="https://media1.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">  <img src="https://media2.giphy.com/media/Sr8xDpMwVKOHUWDVRD/200w.webp" width="100"> <img src="https://media0.giphy.com/media/SqZFDec4yTwXdwoaFY/giphy.webp" width="100">
