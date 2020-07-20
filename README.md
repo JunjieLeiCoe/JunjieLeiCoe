@@ -8,7 +8,7 @@
 ![Junjie's github stats](https://github-readme-stats.vercel.app/api?username=JunjieLeiCoe&show_icons=true&hide=["stars","issues"]&theme=dark) 
 
 <div>
-  I am a graduate student @ USFCA 
+  - I am a graduate student @ USFCA 
 </div>
 <h1 align = 'center'> Currently learning </h1>
 <div align='center'> 
