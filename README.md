@@ -1,8 +1,6 @@
 
 <h1 align = 'center'>Junjie Lei </h1>
-<p>
-  - I am a graduate student @ USFCA 
-</p>
+- I am a graduate stuent @ USFCA 
 
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
