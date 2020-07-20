@@ -12,6 +12,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=JunjieLeiCoe&repo=Rap-Novelty&theme=dark" />
 </a>
 
+<br>
 
 <div align='center'> I am currently learning </div>
 
