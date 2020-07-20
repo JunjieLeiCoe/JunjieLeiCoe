@@ -8,7 +8,8 @@
 
 
 
-<img src="https://media3.giphy.com/media/XAxylRMCdpbEWUAvr8/200w.webp" width="100"> <img src="https://media2.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"> <img src="https://media1.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"> <img src="https://media3.giphy.com/media/fsEaZldNC8A1PJ3mwp/200w.webp" width="100"><img src="https://media1.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">  <img src="https://media2.giphy.com/media/Sr8xDpMwVKOHUWDVRD/200w.webp" width="100"> 
+<img src="https://media3.giphy.com/media/XAxylRMCdpbEWUAvr8/200w.webp" alt="" width="100"><img src="https://media3.giphy.com/media/fsEaZldNC8A1PJ3mwp/200w.webp" width="100"><img src="https://media2.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"> <img src="https://media1.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"> <img src="https://media1.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">  <img src="https://media2.giphy.com/media/Sr8xDpMwVKOHUWDVRD/200w.webp" width="100"> 
+
 #### Tools in my toolkit
 <img src="" width="100"> 
 
