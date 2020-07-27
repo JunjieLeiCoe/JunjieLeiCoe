@@ -25,7 +25,7 @@
 
 
 <h1 align = 'center'> Some of my previous projects </h1>
-<a href="https://github.com/JunjieLeiCoe/Econ-611">
+<a href="https://github.com/JunjieLeiCoe/ECON611_JunjieLei">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=JunjieLeiCoe&repo=Econ611&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
