@@ -28,6 +28,6 @@
 <a href="https://github.com/JunjieLeiCoe/ECON611_JunjieLei">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=JunjieLeiCoe&repo=Econ611&theme=dark" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/JunjieLeiCoe/Rap-Novelty">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=JunjieLeiCoe&repo=Rap-Novelty&theme=dark" />
 </a> 
