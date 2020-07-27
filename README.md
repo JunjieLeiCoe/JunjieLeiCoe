@@ -29,5 +29,5 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=JunjieLeiCoe&repo=Econ611_JunjieLei&theme=dark" />
 </a>
 <a href="https://github.com/JunjieLeiCoe/Rap-Novelty">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=JunjieLeiCoe&repo=Rap-Novelty&theme=dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=JunjieLeiCoe&repo=Rap-Novelty&theme=dark"/>
 </a> 
