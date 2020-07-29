@@ -31,3 +31,6 @@
 <a href="https://github.com/JunjieLeiCoe/Rap-Novelty">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=JunjieLeiCoe&repo=Rap-Novelty&theme=dark"/>
 </a> 
+<a href="https://github.com/JunjieLeiCoe/BTC_fullStack">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=JunjieLeiCoe&repo=BTC_fullStack&theme=dark"/>
+</a> 
