@@ -25,12 +25,12 @@
 
 
 <h1 align = 'center'> Some of my previous projects </h1>
-<a href="https://github.com/JunjieLeiCoe/ECON611_JunjieLei">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=JunjieLeiCoe&repo=Econ611_JunjieLei&theme=dark" />
-</a>
 <a href="https://github.com/JunjieLeiCoe/Rap-Novelty">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=JunjieLeiCoe&repo=Rap-Novelty&theme=dark"/>
 </a> 
 <a href="https://github.com/JunjieLeiCoe/BTC_fullStack">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=JunjieLeiCoe&repo=BTC_fullStack&theme=dark"/>
 </a> 
+<a href="https://github.com/JunjieLeiCoe/ECON611_JunjieLei">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=JunjieLeiCoe&repo=Econ611_JunjieLei&theme=dark" />
+</a>
