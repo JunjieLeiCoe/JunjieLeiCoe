@@ -10,9 +10,15 @@
 
 ---
 
-
-[![Top Langs](https://github-readme-stats-1-ivory.vercel.app/api/top-langs/?username=JunjieLeiCoe)](https://github.com/JunjieLeiCoe/github-readme-stats)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 ![Junjie's github stats](https://github-readme-stats-1-ivory.vercel.app/api?username=JunjieLeiCoe&show_icons=true&hide=["stars","issues"]&theme=dark) 
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+[![Top Langs](https://github-readme-stats-1-ivory.vercel.app/api/top-langs/?username=JunjieLeiCoe)](https://github.com/JunjieLeiCoe/github-readme-stats)
+
+
 
 
 <h1 align = 'center'> Currently learning </h1>
