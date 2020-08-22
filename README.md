@@ -41,10 +41,11 @@
 <a href="https://github.com/JunjieLeiCoe/ECON611_JunjieLei">
   <img align="left" src="https://github-readme-stats-1-ivory.vercel.app/api/pin/?username=JunjieLeiCoe&repo=Econ611_JunjieLei&theme=dark" />
 </a>
-
-<a href="https://github.com/JunjieLeiCoe/tableau">
-  <img align="left" src="https://github-readme-stats-1-ivory.vercel.app/api/pin/?username=JunjieLeiCoe&repo=tableau&theme=dark" />
+<a href="https://github.com/JunjieLeiCoe/Tableau">
+  <img align="left" src="https://github-readme-stats-1-ivory.vercel.app/api/pin/?username=JunjieLeiCoe&repo=Tableau&theme=dark" />
 </a>
+
+
 <a href="https://github.com/JunjieLeiCoe/WebScraper_Research2020S">
   <img align="left" src="https://github-readme-stats-1-ivory.vercel.app/api/pin/?username=JunjieLeiCoe&repo=WebScraper_Research2020S&theme=dark" />
 </a>
