@@ -47,3 +47,6 @@
 <a href="https://github.com/JunjieLeiCoe/tableau">
   <img align="left" src="https://github-readme-stats-1-ivory.vercel.app/api/pin/?username=JunjieLeiCoe&repo=tableau&theme=dark" />
 </a>
+<a href="https://github.com/JunjieLeiCoe/tableau">
+  <img align="left" src="https://github-readme-stats-1-ivory.vercel.app/api/pin/?username=JunjieLeiCoe&repo=tableau&theme=dark" />
+</a>
