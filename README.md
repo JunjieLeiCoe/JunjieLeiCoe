@@ -17,7 +17,7 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-[![Top Langs](https://github-readme-stats-1-ivory.vercel.app/api/top-langs/?username=JunjieLeiCoe)](https://github.com/JunjieLeiCoe)
+[![Top Langs](https://github-readme-stats-1-ivory.vercel.app/api/top-langs/?username=JunjieLeiCoe&theme=dark)](https://github.com/JunjieLeiCoe)
 
 
 
